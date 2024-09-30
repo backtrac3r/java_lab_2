@@ -2,22 +2,21 @@
 
 2. $ java Main
 
-  Weapon Name: Excalibur
-  Damage: 50
-  Weight: 3.5
-  Material: Mythical Steel
-  Excalibur is slashing with damage: 50
+  stdout:
 
-  Weapon Name: Longbow
-  Damage: 30
-  Weight: 2.0
-  Range: 50
-  Longbow is shooting an arrow with damage: 30
-
-  Weapon Name: Elder Wand
-  Damage: 100
-  Weight: 1.0
-  Spell Type: Lightning Bolt
-  Elder Wand casts a spell: Lightning Bolt with damage: 100
-
-  Total weapons created: 3
+Institution Name: Coffee Corner
+Location: Downtown
+Capacity: 50
+Number of Tables: 10
+Cafe serves food and drinks to customers.
+Institution Name: Electronics World
+Location: Mall
+Capacity: 100
+Product Category: Electronics
+Store sells Electronics products.
+Institution Name: City Library
+Location: City Center
+Capacity: 500
+Number of Books: 100000
+Library provides access to books and other resources.
+Total Institutions:
